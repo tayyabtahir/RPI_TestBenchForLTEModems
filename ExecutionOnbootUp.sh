@@ -1,0 +1,1 @@
+sudo /usr/bin/python /home/RPI_TestBenchForLTEModems/main.py >> /home/RPI_TestBenchForLTEModems/log.txt 2>&1
